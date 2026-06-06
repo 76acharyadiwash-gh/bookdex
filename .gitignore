@@ -1,0 +1,4 @@
+node_modules/
+database/books.db
+.env
+uploads/
